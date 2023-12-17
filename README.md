@@ -1,11 +1,12 @@
-# <h1>TetrisXNaruto</h1>
+# <h1>TetrisXNaruto Online Version (線上對戰版)</h1>
 
 <h2>使用說明</h2>
+
   - 解壓縮下載的壓縮檔<br>
   
   - 打開 dist 資料夾中的 TetrisXNaruto.exe 執行遊戲
-  
-  <img src="https://hackmd.io/_uploads/SkYBi4jIa.png" height="150px" width="300px"/> <img src="https://hackmd.io/_uploads/S1otjEi8T.png" height="150px" width="200px">
+
+  <img src="https://hackmd.io/_uploads/SkYBi4jIa.png" height="150px" width="300px"/> <img src="https://github.com/johess123/tetris_online_version/assets/104426729/ccb3d9ce-2b58-4580-bffd-1401bac6a4ed" height="150px" width="250px">
   
   - 開啟後可登入或註冊帳號 (帳號最長 10 個字，密碼最長 20 個字)
   
