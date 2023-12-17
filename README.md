@@ -24,12 +24,12 @@
 <h2>操作方法</h2>
 
   - 預設按鍵：
-    - 左 A
-    - 右 D
-    - 下 S
+    - 左 左方向鍵
+    - 右 右方向鍵
+    - 下 下方向鍵
     - 直接墜落 空白鍵
-    - 逆時鐘旋轉 J
-    - 順時鐘旋轉 K
+    - 逆時鐘旋轉 z
+    - 順時鐘旋轉 x
 
   - 可以在選擇房間頁面點下方的 settings 設定鍵位
   <img src="https://github.com/johess123/tetris_online_version/assets/104426729/d8b32d0b-dad6-4d51-a354-9ce67cb02bbb" height="300px" width="500px"/>
