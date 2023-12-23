@@ -37,3 +37,5 @@
   - 點擊要修改的按鍵並按要更換的按鍵，最後點擊 Save&Quit 保存退出
   <img src="https://github.com/johess123/tetris_online_version/assets/104426729/bb885ceb-e923-47a2-87c4-77b5458fa90b" height="300px" width="500px"/>
 
+<h2>開發人員</h2>
+黃瑜楓 Yellow Fish
